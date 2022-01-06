@@ -14,6 +14,7 @@
 - WhatsApp，省短信费神器，https://www.whatsapp.com/
 
 ## 社交软件：
+- TikTok-抖音国际版，短视频社交平台，https://www.tiktok.com/
 - Instagram，国外目前最火的图片视频社交网站，http://www.instagram.com
 - Facebook-脸书，对真实身份审核比较严格社交网站，http://www.facebook.com
 - Twitter-推特，新浪微博的模仿对象，http://www.twitter.com
